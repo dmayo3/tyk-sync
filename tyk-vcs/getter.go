@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/TykTechnologies/tyk-sync/clients/objects"
-	"github.com/TykTechnologies/tyk-sync/tyk-swagger"
+	"github.com/dmayo3/tyk-sync/clients/objects"
+	"github.com/dmayo3/tyk-sync/tyk-swagger"
 	"github.com/TykTechnologies/tyk/apidef"
 	"gopkg.in/src-d/go-billy.v4"
 	"gopkg.in/src-d/go-billy.v4/memfs"
