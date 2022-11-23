@@ -5,8 +5,8 @@ import (
 
 	"encoding/json"
 
-	"github.com/dmayo3/tyk-sync/clients/objects"
 	"github.com/TykTechnologies/tyk/apidef"
+	"github.com/dmayo3/tyk-sync/clients/objects"
 	"github.com/levigross/grequests"
 	"github.com/ongoingio/urljoin"
 	uuid "github.com/satori/go.uuid"
